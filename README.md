@@ -45,5 +45,5 @@ The original classroom notebook selected all numeric columns as input, **includi
 
 ## Author
 
-**Shreyank Nipane**  
+**Tanushri sapate**  
 B.Tech CSE (Artificial Intelligence & Machine Learning)
